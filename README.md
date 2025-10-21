@@ -1,13 +1,10 @@
 # 🚀 Awesome-ReadMe
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg">
   <img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg">
   <img alt="Languages" src="https://img.shields.io/badge/languages-EN%20%7C%20TR-orange.svg">
   <img alt="Status" src="https://img.shields.io/badge/status-in%20progress-yellow.svg">
 </p>
-
-> The ultimate guide to crafting awesome GitHub READMEs.
 
 ---
 **[English](#) (Current)** | **[Türkçe](TR/README.md)**
