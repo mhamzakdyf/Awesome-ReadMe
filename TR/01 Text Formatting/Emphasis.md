@@ -85,9 +85,9 @@ Metni iki yaklaşık işareti (`~~`) arasına alarak üstünü çizebilirsiniz.
 
 ### Kullanım Örnekleri
 
-  - Güncelliğini yitirmiş bilgi: Gereksinimler: \~\~Python 2.7\~\~ Python 3.8 veya üstü.
-  - İndirimli fiyat gösterimi: Fiyat: \~\~100 TL\~\~ **75 TL**
-  - Tamamlanan görevler: Yapılacaklar: \~\~Kurulum rehberini yaz\~\~
+  - Güncelliğini yitirmiş bilgi: Gereksinimler: ~~Python 2.7~~ Python 3.8 veya üstü.
+  - İndirimli fiyat gösterimi: Fiyat: ~~100 TL~~ **75 TL**
+  - Tamamlanan görevler: Yapılacaklar: ~~Kurulum rehberini yaz~~
 
 ## 5\. Satır İçi Kod (Inline Code)
 
