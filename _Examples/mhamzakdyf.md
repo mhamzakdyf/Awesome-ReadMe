@@ -24,6 +24,5 @@ I am passionate about software development, algorithms, and exploring new techno
 
 ## Contact
 
-- 📧 Email: hamzaminecraftta@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 🐙 GitHub: [github.com/mhamzakdyf](https://github.com/yourusername)
+- 📧 Email: hamzaminecraftta@gmail.com    
+- 🐙 GitHub: [github.com/mhamzakdyf](https://github.com/mhamzakdyf)
