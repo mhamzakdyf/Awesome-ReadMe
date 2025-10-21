@@ -9,6 +9,9 @@
 </div>
 
 ---
+<div align="center">
+
+⭐️ From [@AbdulkerimCanBRY](https://github.com/AbdulkerimCanBRY)
 
 ### 👨‍💻 About Me
 
